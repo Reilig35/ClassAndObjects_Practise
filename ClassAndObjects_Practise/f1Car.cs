@@ -4,9 +4,9 @@ using System.Text;
 
 namespace ClassAndObjects_Practise
 {
-    public class fOneCar
+    public class f1Car
     {
-        public fOneCar()
+        public f1Car()
         {
             string Name;
             string Country;
